@@ -10,7 +10,7 @@ body {
     background-color: #f0f0f0;
     color: #333;
     font-family: Arial, sans-serif;
-    background-image: url('BG.jpg'); /*  Replace 'background.jpg' with the path to your image */
+    background-image: url('BG.JPG'); /*  Replace 'background.jpg' with the path to your image */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
